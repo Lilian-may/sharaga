@@ -1,0 +1,11 @@
+D:\fgefwgiefgewui\fgefwgiefgewui\bin\Debug\fgefwgiefgewui.exe.config
+D:\fgefwgiefgewui\fgefwgiefgewui\bin\Debug\fgefwgiefgewui.exe
+D:\fgefwgiefgewui\fgefwgiefgewui\bin\Debug\fgefwgiefgewui.pdb
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.csproj.AssemblyReference.cache
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.csproj.SuggestedBindingRedirects.cache
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.Form1.resources
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.Properties.Resources.resources
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.csproj.GenerateResource.cache
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.csproj.CoreCompileInputs.cache
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.exe
+D:\fgefwgiefgewui\fgefwgiefgewui\obj\Debug\fgefwgiefgewui.pdb

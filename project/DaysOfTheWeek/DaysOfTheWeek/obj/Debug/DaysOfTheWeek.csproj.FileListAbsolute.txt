@@ -1,0 +1,11 @@
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.AssemblyReference.cache
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.SuggestedBindingRedirects.cache
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.Form1.resources
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.Properties.Resources.resources
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.GenerateResource.cache
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+D:\проект 1\new\isp22\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
